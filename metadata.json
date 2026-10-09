@@ -1,0 +1,6 @@
+{
+  "name": "Rachel Caetano Nail Designer",
+  "description": "Biosite profissional e sofisticado para o estúdio Rachel Caetano Nail Designer em Belo Horizonte. Serviços de unhas de alto padrão, cursos, galeria e agendamento via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
